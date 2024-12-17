@@ -24,6 +24,8 @@ To reproduce the results:
 2. Use UNeXt and MALUNet models to run segmentation tasks. (More detailed steps can be found in the readme file within each algorithm's folder.)
 3. Evaluate the outputs using F1-Score and IoU.
 
+Our results showed that UNeXt outperforms MALUNet in terms of F1-Score and Intersection over Union (IoU) while also being computationally more efficient.
+
 ## Dataset
 
 - [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
