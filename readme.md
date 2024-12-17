@@ -21,7 +21,7 @@ We used UNeXt and MALUNet for medical image segmentation. Below is how we conduc
      
 To reproduce the results:
 1. Download the BUSI and ISIC18 datasets from the provided links.
-2. Use UNeXt and MALUNet models to run segmentation tasks.
+2. Use UNeXt and MALUNet models to run segmentation tasks. (More detailed steps can be found in the readme file within each algorithm's folder.)
 3. Evaluate the outputs using F1-Score and IoU.
 
 ## Dataset
