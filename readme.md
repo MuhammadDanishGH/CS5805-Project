@@ -21,7 +21,9 @@ We used UNeXt and MALUNet for medical image segmentation. Below is how we conduc
      
 To reproduce the results:
 1. Download the BUSI and ISIC18 datasets from the provided links.
-2. Use UNeXt and MALUNet models to run segmentation tasks. (More detailed steps can be found in the readme file within each algorithm's folder.)
+2. Use UNeXt and MALUNet models to run segmentation tasks.
+   - `MALUNET` [here](MALUNet/README.md)
+   - `UNeXT` [here](unext/README.md)
 3. Evaluate the outputs using F1-Score and IoU.
 
 Our results showed that UNeXt outperforms MALUNet in terms of F1-Score and Intersection over Union (IoU) while also being computationally more efficient.
