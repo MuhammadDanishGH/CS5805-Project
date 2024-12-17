@@ -4,8 +4,8 @@
 
 ## Dataset
 
-- BUSI
-- ISIC18
+- [BUSI](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
+- [ISIC18](https://challenge.isic-archive.com/data/)
 
 ## References
 
